@@ -4,7 +4,7 @@
 
 <h3> 💬 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Eu sou Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
+- 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
 - 🎓 &nbsp; Terminei recentemente ensino médio técnico em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Atualmente estudando por conta própria, revendo o básico novamente para voltar a programar.
 - ✍️ &nbsp; Aprendendo HTML e CSS.
