@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
 - 🎓 &nbsp; Terminei recentemente ensino médio técnico em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Atualmente estudando por conta própria, revendo o básico novamente para voltar a programar.
-- ✍️ &nbsp; Aprendendo HTML e CSS.
+- ✍️ &nbsp; Aprendendo (de novo) HTML e CSS.
 
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 
