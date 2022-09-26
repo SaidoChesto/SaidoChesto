@@ -5,9 +5,10 @@
 <h3> 💬 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
-- 🎓 &nbsp; Terminei recentemente ensino médio técnico em Análise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Terminei o ensino médio técnico em Análise e Desenvolvimento de Sistemas em 2021.
 - 💼 &nbsp; Atualmente estudando por conta própria, revendo o básico novamente para voltar a programar.
-- ✍️ &nbsp; Aprendendo (de novo) HTML e CSS.
+- 🌱 &nbsp; Aprendendo (de novo) HTML e CSS.
+- 🔭 &nbsp; Atualmente reaprendendo coisas para entrar no mercado de trabalho.
 
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 
@@ -33,18 +34,3 @@
 <a href="https://www.linkedin.com/in/diego-miranda-magalhães-43a994206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diego%20M%20Magalhães-blue"></a>
 <a href="mailto:diegommagalhaes07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Diego%20M%20Magalh%C3%A3es-red"></a>
 </p>
-
-<!--
-**D3g07/D3g07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
