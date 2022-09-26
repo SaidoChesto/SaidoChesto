@@ -5,10 +5,9 @@
 <h3> 💬 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
-- 🎓 &nbsp; Terminei o ensino médio técnico em Análise e Desenvolvimento de Sistemas em 2021.
+- 🎓 &nbsp; Formado em Desenvolvimento de Sistemas na ETEC Prof. Camargo Aranha.
 - 💼 &nbsp; Atualmente estudando por conta própria, revendo o básico novamente para voltar a programar.
 - 🌱 &nbsp; Aprendendo (de novo) HTML e CSS.
-- 🔭 &nbsp; Atualmente reaprendendo coisas para entrar no mercado de trabalho.
 
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 
@@ -27,7 +26,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Formas para me contatar </h3>
+<h3> 🤝🏻 &nbsp;Se quiser me contatar use uma dessas platataformas, estou livre na maior parte do meu tempo </h3>
 </br>
 
 <p align="center">
