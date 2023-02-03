@@ -5,7 +5,7 @@
 <h3> 💬 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil;
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas;
+- 🎓 &nbsp; Fiz Ensino Médio Técnico de Análise e Desenvolvimento de Sistemas;
 - 💼 &nbsp; Atualmente estudando Ciências da Computação;
 - 🌱 &nbsp; Além de estar fazendo estudo próprio, revendo o básico novamente para voltar a programar.
 
