@@ -4,10 +4,10 @@
 
 <h3> 💬 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil.
-- 🎓 &nbsp; Formado em Desenvolvimento de Sistemas na ETEC Prof. Camargo Aranha.
-- 💼 &nbsp; Atualmente estudando por conta própria, revendo o básico novamente para voltar a programar.
-- 🌱 &nbsp; Aprendendo (de novo) HTML e CSS.
+- 🤔 &nbsp; Meu nome é Diego Miranda Magalhães, atualmente em Santa Catarina, Brasil;
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas;
+- 💼 &nbsp; Atualmente estudando Ciências da Computação;
+- 🌱 &nbsp; Além de estar fazendo estudo próprio, revendo o básico novamente para voltar a programar.
 
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 
